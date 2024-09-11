@@ -1,5 +1,13 @@
 # Dashboard UI with Responsive Navigation
 
+Live - 
+
+![image](https://github.com/user-attachments/assets/8ff7481c-d52c-4f43-a51a-549891dae7b8)
+![image](https://github.com/user-attachments/assets/336f2e6f-e545-479b-bb8a-62be71791e81)
+![image](https://github.com/user-attachments/assets/2ce6b083-7ffd-4e7f-b1c4-7a6df62fcde4)
+
+
+
 This project is a simple, responsive dashboard UI built using **React** and **Tailwind CSS**, featuring charts created with **Chart.js** (via `react-chartjs-2`), and a responsive navigation bar with a hamburger menu for mobile devices.
 
 ## Features
