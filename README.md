@@ -16,8 +16,6 @@ This project is a simple, responsive dashboard UI built using **React** and **Ta
 - **Bar and Pie Charts**: Displays a bar chart for monthly income and expenses and two pie charts for income distribution and household expenses, created with `react-chartjs-2`.
 - **Responsive Sidebar**: A sidebar menu featuring several navigation links that stack vertically on mobile devices.
 - **User Profile Section**: Displays a user profile card with recent financial activities.
-- **Company Logo**: The project uses the company's logo in the navigation bar.
-- **Dark and Light Mode**: The project is styled with a light theme by default but can easily be extended for dark mode using Tailwind utilities.
 
 ## Technologies Used
 
